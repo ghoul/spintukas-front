@@ -1,0 +1,5 @@
+frontui:
+raudonas mygtukas negrazus
+logo ne ten
+banner apacioj
+RESPONSIVE
